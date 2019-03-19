@@ -1,2 +1,2 @@
 # whitney-workshop
-Kubernetes workshop for Whitney Hgh Hackathon
+Kubernetes workshop for Whitney High Hackathon
